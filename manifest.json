@@ -1,0 +1,63 @@
+{
+  "client": "be_terna",
+  "last_synced": "2026-10-15",
+  "layers": {
+    "identity": [
+      "identity/AXES.md",
+      "identity/POSITIONING.md",
+      "identity/STATS.md",
+      "identity/REFUSE.md",
+      "identity/OWNERS.md",
+      "company/voice.md"
+    ],
+    "offerings": [
+      "offerings/erp.md",
+      "offerings/crm.md",
+      "offerings/ai.md",
+      "offerings/automation.md",
+      "offerings/data-and-bi.md",
+      "offerings/specialized.md"
+    ],
+    "platforms": [
+      "offerings/platforms/microsoft.md",
+      "offerings/platforms/infor.md",
+      "offerings/platforms/qlik.md",
+      "offerings/platforms/uipath.md"
+    ],
+    "industries": [
+      "offerings/industries/automotive.md",
+      "offerings/industries/banking.md",
+      "offerings/industries/chemicals.md",
+      "offerings/industries/construction-services.md",
+      "offerings/industries/discrete-manufacturing.md",
+      "offerings/industries/energy-suppliers.md",
+      "offerings/industries/fashion.md",
+      "offerings/industries/food.md",
+      "offerings/industries/health-care.md",
+      "offerings/industries/hospitality.md",
+      "offerings/industries/insurance.md",
+      "offerings/industries/pharmaceutical.md",
+      "offerings/industries/professional-services.md",
+      "offerings/industries/public-sector.md",
+      "offerings/industries/retail.md",
+      "offerings/industries/services-and-rental.md",
+      "offerings/industries/utilities-and-infrastructure.md",
+      "offerings/industries/wholesale.md"
+    ],
+    "proof": [
+      "proof/REGISTER.md",
+      "proof/partners.md",
+      "proof/case-studies/_index.md"
+    ],
+    "behaviour": [
+      "behaviour/SOURCES.md"
+    ],
+    "demand": [
+      "demand/ACCESS.md"
+    ],
+    "brand": [
+      "brand/TOKENS.md"
+    ]
+  },
+  "graphics": []
+}

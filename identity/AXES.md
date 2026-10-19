@@ -1,8 +1,8 @@
 ---
-status: draft
+status: approved
 owner: Brand and portfolio governance — Verena Alge, Birgit Partl
-approved_by: null
-approved_on: null
+approved_by: Verena Alge
+approved_on: 2026-10-19
 captured_on: 2026-10-15
 source: BE-terna site navigation (solutions, industries, languages), captured 2026-10-15
 validity:

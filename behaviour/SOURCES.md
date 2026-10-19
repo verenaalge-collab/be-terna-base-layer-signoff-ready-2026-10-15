@@ -1,8 +1,8 @@
 ---
-status: draft
+status: approved
 owner: Web / content operations — Verena Alge
-approved_by: null
-approved_on: null
+approved_by: Verena  Alge
+approved_on: 2026-10-19
 captured_on: 2026-10-15
 source: Live BE-terna navigation and footer, captured 2026-10-15
 validity:
@@ -29,10 +29,10 @@ validity:
 | International implementation projects | https://www.be-terna.com/our-services/international-implementation-projects | Verena Alge / Anamarija Krilcic | on change | yes |
 | Solutions FAQs | https://www.be-terna.com/solutions/what-is-erp; https://www.be-terna.com/solutions/what-is-crm | Verena Alge / Anamarija Krilcic | on change | yes |
 | Academies | https://www.be-terna.com/be-terna-qlik-sense-academy; https://www.be-terna.com/be-terna-power-bi-academy; https://www.be-terna.com/be-terna-data-analytics-and-ai-onboarding-program | Natalie Hinkkanen | on change | yes |
-| Support | https://www.be-terna.com/our-services/service-center-dach | Verena Alge / Anamarija Krilcic | on change | yes |
+| Support | https://www.be-terna.com/our-services/service-center-dach | Verena Alge | on change | yes |
 | Contact | https://www.be-terna.com/contact-us | Verena Alge / Anamarija Krilcic | on change | yes |
-| Locations | https://www.be-terna.com/about-us/locations | Birgit Partl | on change | yes |
-| Customers | https://www.be-terna.com/customers | Verena Alge / Anamarija Krilcic (until Customer Marketing is named) | monthly | yes |
+| Locations | https://www.be-terna.com/about-us/locations | Verena Alge | on change | yes |
+| Customers | https://www.be-terna.com/customers | Anamarija Krilcic | on change | yes |
 | Insights / news hub | https://www.be-terna.com/insights | Verena Alge / Anamarija Krilcic | weekly | yes |
 | Company news | https://www.be-terna.com/about-us/news (**corrected** from /company-news) | Birgit Partl | weekly | yes |
 
